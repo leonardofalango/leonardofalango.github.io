@@ -1,0 +1,8 @@
+Colors:
+
+    Primary: #000000
+    Secundary: #7590c6
+    Terciary: #99b584
+    Others: #beda42, e3ff00
+
+https://wa.me/5541987141533
